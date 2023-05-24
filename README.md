@@ -1,0 +1,1 @@
+A faster exact algorithm for Max-Cut currently only for split graphs.
