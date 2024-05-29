@@ -1,6 +1,9 @@
+#!/usr/bin/env sage -python
+# -*- coding: utf-8 -*-
+
 import unittest
 from faster_maxcut import *
-from sage.misc.prandom import randint # type: ignore
+from sage.misc.prandom import randint
 
 class TestMaxCut(unittest.TestCase):
 
