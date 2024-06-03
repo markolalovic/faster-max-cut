@@ -48,3 +48,18 @@ OK
 ```
 
 Tested using Python 3.12.3 and SageMath version 10.3.
+
+## Citing
+If you find this useful in your work, please consider citing [the paper](https://arxiv.org/abs/2405.20599):
+
+```bibtex
+@misc{lalovic2024exact,
+   title={Exact Algorithms for MaxCut on Split Graphs},
+   author={Marko Lalovic},
+   journal={arXiv preprint arXiv:2405.20599},
+   year={2024},
+   doi={10.48550/arXiv.2405.20599},
+   url={https://arxiv.org/abs/2405.20599}
+}
+```
+
